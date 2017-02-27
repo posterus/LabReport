@@ -1,7 +1,0 @@
-\select@language {english}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Abstract}{2}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Theory}{2}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Method}{2}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Results}{2}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Discussion}{2}
-\contentsline {section}{\numberline {\hspace *{-1.0em}}Summery}{2}
