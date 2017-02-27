@@ -2,7 +2,7 @@
 Small bash script to create all the standard files for my lab reports.
 
 
-For the moment all files has to be located in the folder ** ~/scripts/LabReport/ **. Then one can just add an alias like
+For the moment all files has to be located in the folder **~/scripts/LabReport/**. Then one can just add an alias like
 
 > alias lab="bash ~/scripts/LabReport/lab.sh"
 
