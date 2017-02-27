@@ -111,3 +111,4 @@ more will hopefully be added later. This is just the beginning.... moahahah. The
 \makeatletter
 \def\input@path{{sections/}{data/}}
 \makeatother
+\graphicspath{{images/}}

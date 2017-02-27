@@ -13,17 +13,17 @@ done
 
 
 mkdir data
+mkdir images
 
 
-
-cp ~/scripts/labreport/LU.png .
-cp ~/scripts/labreport/LabRapport.cls .
+cp ~/scripts/LabReport/LU.png images/
+cp ~/scripts/LabReport/LabReport.cls .
 if [ -z $1 ]
 then
-	cp ~/scripts/labreport/Main.tex NoName.tex
+	cp ~/scripts/LabReport/Main.tex NoName.tex
 	
 else
-	cp ~/scripts/labreport/Main.tex ${1}.tex
+	cp ~/scripts/LabReport/Main.tex ${1}.tex
 fi
 
 
