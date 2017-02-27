@@ -10,6 +10,6 @@ This can of course be put in .bashrc for a more permanent solution
 
 Then one can use it by running:
 
-> lab <name_of_lab>
+> lab "name_of_lab"
 
 The main file will then be: name_of_lab.tex
